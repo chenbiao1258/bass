@@ -1,0 +1,18 @@
+git 下载代码到本地 
+初始化git
+ git init
+添加远程仓库
+git remote add [shortname] [url]:
+
+例 git remote add origin https://github.com/chenbiao1258/bass
+下载库到本地
+git clone https://github.com/chenbiao1258/bass
+
+提交文件到git
+把文件复制到本地库中 右键鼠标 选择 git bash here
+git add 文件
+git commit -m "（文件描述）"
+git push 
+更新 git 代码 git pull
+
+
